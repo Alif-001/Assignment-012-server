@@ -1,6 +1,6 @@
 ﻿# DriveCtrl server
 
-- this is a server for driveCtrl website .
+- This is a server for driveCtrl website .
 
 - This is a full-stack car sealing website .
 
